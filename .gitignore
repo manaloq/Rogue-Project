@@ -14914,3 +14914,7 @@ Rogue-Project/Library/Artifacts/fc/fc0856f1585193dbb0f3cabe98420067
 *.txt
 *.md
 *.md
+*.asmdef
+*.png
+*.shader
+*.dwlt
